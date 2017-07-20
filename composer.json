@@ -1,0 +1,18 @@
+{
+  "name": "fahrenheit-marketing/fahrenheit-marketing-automation-with-sharpspring",
+  "description": "Fahrenheit Marketing Automation with SharpSpring",
+  "type": "wordpress-plugin",
+  "license": "GPLv3",
+  "authors": [
+    {
+      "name": "Bob Bolender",
+      "email": "bob.bolender@fahrenheit.io"
+    }
+  ],
+  "require": {
+    "composer/installers": "*"
+  },
+  "extra": {
+    "installer-name": "fahrenheit-marketing-automation-with-sharpspring"
+  }
+}
